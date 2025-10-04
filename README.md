@@ -1,6 +1,9 @@
 # netfliex-90s-movies-analysis
 An exploratory data analysis (EDA) of the Netflix dataset, with a special focus on movies released in the 1990s. This project delves into trends, genres and characteristics of nostalgic cinema to uncover insights from that iconic decade
 
+# netfliex-90s-movies-analysis
+An exploratory data analysis (EDA) of the Netflix dataset, with a special focus on movies released in the 1990s. This project delves into trends, genres and characteristics of nostalgic cinema to unco[...]
+
 # Analysis of 1990s Movies on Netflix
 
 <p align="center">
@@ -9,9 +12,9 @@ An exploratory data analysis (EDA) of the Netflix dataset, with a special focus 
 
 ## 🎬 Project Overview
 
-This project performs an exploratory data analysis (EDA) on a dataset of shows and movies available on Netflix. The primary goal is to uncover trends and insights specifically related to **movies released during the 1990s**. 
+This project performs an exploratory data analysis (EDA) on a dataset of shows and movies available on Netflix. The primary goal is to uncover trends and insights specifically related to **movies rele[...]
 
-Working from the perspective of a production company specializing in nostalgic styles, this analysis helps to better understand the landscape of 90s cinema, including popular genres, movie durations, and contributing countries.
+Working from the perspective of a production company specializing in nostalgic styles, this analysis helps to better understand the landscape of 90s cinema, including popular genres, movie durations, [...]
 
 ## 📊 Dataset
 
@@ -45,12 +48,12 @@ To run this analysis on your own machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone https://github.com/Ezzelden5/netfliex-90s-movies-analysis.git
     ```
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-repository-name
+    cd netfliex-90s-movies-analysis
     ```
 
 3.  **Install the necessary libraries.** It's recommended to create a `requirements.txt` file with the following content:
@@ -73,3 +76,5 @@ To run this analysis on your own machine, follow these steps:
 5.  Open the `notebook.ipynb` file to view and run the analysis.
 
 ## 📁 File Structure
+
+```
